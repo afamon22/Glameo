@@ -1,0 +1,9 @@
+{
+  "name": "Glameo - Votre Éclat Beauté au Quotidien",
+  "description": "Une plateforme complète de réservation pour coiffeurs et salons de beauté offrant planification en temps réel, tableaux de bord prestataires et conseils personnalisés par IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
