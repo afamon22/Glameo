@@ -8,7 +8,7 @@ export const MOCK_SERVICES: Service[] = [
   { id: 's4', name: 'Balayage', duration: 150, bufferTime: 20, price: 110, description: 'Éclaircissement naturel pour un effet soleil.' },
 ];
 
-const DEFAULT_POLICY = {
+const DEFAULT_POLICY = {    
   freeUntilHours: 24,
   lateCancelFeePercent: 50,
   noShowFeePercent: 100
